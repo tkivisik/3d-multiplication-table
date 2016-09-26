@@ -10,6 +10,8 @@
 ## * GAME - number ==> shortest route to that number
 
 ## todo
+## * update menu and guidelines
+## * import data from csv
 ## * GUI - menu, drag-drop game
 
 import os                   # to clear the screen
